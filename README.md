@@ -1,5 +1,5 @@
 
-![Ahmad Zidane R](img/github-header-banner.png)
+![Ahmad Zidane R](img/github-header-banners.png)
 
 
 ##### Tech Stack
@@ -11,3 +11,4 @@
 
 <img src="https://raw.githubusercontent.com/AhmadZidaneR/AhmadZidaneR/output/snake.svg" alt="Snake animation" />
 
+###
