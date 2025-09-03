@@ -9,13 +9,11 @@
 ##### Connect with me
 ![https://instagram.com/zdane.r](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/ahmad-zidane-rabbaanee](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-###
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadZidaneR/AhmadZidaneR/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadZidaneR/AhmadZidaneR/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmadZidaneR/AhmadZidaneR/output/pacman-contribution-graph.svg">
-<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadZidaneR/AhmadZidaneR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadZidaneR/AhmadZidaneR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmadZidaneR/AhmadZidaneR/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
