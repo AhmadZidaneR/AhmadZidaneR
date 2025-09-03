@@ -16,7 +16,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AhmadZidaneR/AhmadZidaneR/output/snake.svg" alt="Snake animation" />
-
-###
